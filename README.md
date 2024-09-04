@@ -35,8 +35,9 @@ print("Swapped values are:",a,b)
 ```
 
 ## OUTPUT:
-[EXP-1_ CR Swapping of two variables_ Attempt review _ SEC.pdf](https://github.com/user-attachments/files/16859220/EXP-1_.CR.Swapping.of.two.variables_.Attempt.review._.SEC.pdf)
 
+
+![EXP-1_ CR Swapping of two variables_ Attempt review _ SEC_page-0001](https://github.com/user-attachments/assets/524a8d48-ff56-4da8-8c53-e3b553a58ab2)
 
 
 ## RESULT:
